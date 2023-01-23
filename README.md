@@ -1,4 +1,6 @@
 ### Hi there 👋
+Biography
+I'm Ahmed, a Data analyst who loves learning and implementing new techniques and strategies while dealing with data through wrangling or visualizing data. I recently developed several projects that can answer specific business questions and then visualize them using Matplotlib or Microsoft Excel. I'd like to combine my passion for learning and my skills to continue to develop and help people to get the maximum value from their data to develop their businesses.
 
 <!--
 **AhmedGamal0100/AhmedGamal0100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
