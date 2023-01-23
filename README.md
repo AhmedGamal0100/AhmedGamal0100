@@ -1,6 +1,10 @@
-### Hi there 👋
-#### Biography
+## Biography
+
 I'm Ahmed, a Data Scientist who loves learning and implementing new techniques and strategies while dealing with data through wrangling or visualizing data. I recently developed several projects that can answer specific business questions and then visualize them using Matplotlib or Microsoft Excel. I'd like to combine my passion for learning and my skills to continue to develop and help people to get the maximum value from their data to develop their businesses.
+
+## **Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmedgamal1247200)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/dataprofessor/)
 
 <!--
 **AhmedGamal0100/AhmedGamal0100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
